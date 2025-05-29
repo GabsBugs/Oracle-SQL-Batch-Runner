@@ -56,7 +56,7 @@ python main.py
 ```bash
 oracle-sql-batch-runner/
 │
-├── main.py               # Main Python script
+├── sql_batch_runner.py 
 ├── .env                  # Hidden file with DB credentials (excluded from version control)
 ├── step1.sql             # SQL scripts (also hidden/excluded)
 ├── step2.sql
